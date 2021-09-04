@@ -15,4 +15,7 @@ function checkDayOfMonth() {
   if (CC < 12 || CC > 22) {
     alert("Enter a valid Centuary")
   } else {
+    if (YY < 0 || 99 <= YY) {
+      alert("Enter a valid Year")
+    } else
     
