@@ -3,4 +3,6 @@ body {
 }
 .overlay {
     background-color: white;
+    text-align: center;
+    text-decoration: chocolate;
 }
