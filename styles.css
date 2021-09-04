@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(82, 28, 28);
+}
+.overlay {
+    background-color: white;
+    text-align: center;
+    text-decoration: chocolate;
+    color: black;
+    padding: 10px;
+}
+span{
+    color: blue;
+}
+hr{
+    background-color: white;
+    
+}
