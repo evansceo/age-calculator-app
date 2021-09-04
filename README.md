@@ -38,3 +38,5 @@ View site (https://evansceo.github.io/age-calculator-app/)
 ### Contacts
 |Phone: |+254712234913|
 |Email: |evansville09@gmail.com|
+### License
+This project is under the [MIT](license) license
