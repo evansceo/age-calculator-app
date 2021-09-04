@@ -18,4 +18,7 @@ function checkDayOfMonth() {
     if (YY < 0 || 99 <= YY) {
       alert("Enter a valid Year")
     } else
-    
+    if (MM <= 0 || MM > 12) {
+      alert("Enter a valid Month")
+    } else
+  
