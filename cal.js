@@ -12,4 +12,7 @@ function checkDayOfMonth() {
   var MM = month;
   var DD = dayOfMonth;
   var d = parseInt(((CC / 4) - 2 * CC - 1) + ((5 * YY / 4)) + ((26 * (MM + 1) / 10)) + DD) % 7
- 
+  if (CC < 12 || CC > 22) {
+    alert("Enter a valid Centuary")
+  } else {
+    
