@@ -21,4 +21,8 @@ function checkDayOfMonth() {
     if (MM <= 0 || MM > 12) {
       alert("Enter a valid Month")
     } else
+    if (DD <= 0 || DD > 31) {
+      alert("Invalid date")
+    } else
+   
   
