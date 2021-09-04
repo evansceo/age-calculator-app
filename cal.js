@@ -24,5 +24,12 @@ function checkDayOfMonth() {
     if (DD <= 0 || DD > 31) {
       alert("Invalid date")
     } else
-   
+    if (gender === "Male") {
+      alert("Your Akan name is " + akanMaleName[d])
+    }
+    if (gender === "Female") {
+      alert("Your Akan name is " + akanFemaleName[d])
+    }
+  }
+}
   
