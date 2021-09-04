@@ -34,7 +34,7 @@ How it works:
 4. JavaScript
 5. BootStrap
 ### Live site
-View site ()
+View site (https://evansceo.github.io/age-calculator-app/)
 ### Contacts
 |Phone: |+254712234913|
 |Email: |evansville09@gmail.com|
