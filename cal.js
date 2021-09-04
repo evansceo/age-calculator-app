@@ -6,4 +6,5 @@ function checkDayOfMonth() {
   var year = parseInt(document.getElementById("year").value);
   var month = parseInt(document.getElementById("month").value);
   var dayOfMonth = parseInt(document.getElementById("monthday").value);
-  
+  var gender = document.getElementById("gender").value;
+
